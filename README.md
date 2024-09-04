@@ -24,4 +24,4 @@ This tutorial is about learning JavaScript, Node.js, Express.js and MongoDB to c
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
 | **1.** | ![](cover-js.jpg) | <h4><i>Flavio Copes</i></h4><h2>The JavaScript Beginner's Handbook</h2><ul><li>https://flaviocopes.com/access/</li><li>https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/</li></ul> |
-| **2.** | ![](cover-nwb.jpg) | <h4><i>Nathan Sebhastian</i></h4><h2>Node.js Web Development For Beginners</h2><p><i>A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB</i></p><ul><li>https://codewithnathan.com</li></ul<p>2024</p> |
+| **2.** | ![](cover-nwb.jpg) | <h4><i>Nathan Sebhastian</i></h4><h2>Node.js Web Development For Beginners</h2><p><i>A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB</i></p><ul><li>https://codewithnathan.com</li></ul><p>2024</p> |
