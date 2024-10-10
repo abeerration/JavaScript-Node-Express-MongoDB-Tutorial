@@ -85,8 +85,14 @@ console.log()
 console.log("773 found at index: " + spread.findIndex(i => i === 773))
 console.log("@krliw4j found at index: " + spread.findIndex(i => i === "@krliw4j"))
 console.log("ggf found at index: " + spread.findIndex(i => i === "ggf"))
-console.log("!_!_ was: " + (spread.findIndex(i => i === "!_!_") < 0 ? "not found" : "found"))
-console.log("92 was: " + (spread.findIndex(i => i === 92) < 0 ? "not found" : "found"))
+console.log()
 
 //
 
+console.log("!_!_ was: " + (spread.findIndex(i => i === "!_!_") < 0 ? "not found" : "found"))
+console.log("92 was: " + (spread.findIndex(i => i === 92) < 0 ? "not found" : "found"))
+console.log()
+
+console.log("b%6# was found: " + spread.includes("b%6#"))
+console.log("x was found starting from index 0: " + spread.includes("x", 0))
+console.log("x was found starting from index 1: " + spread.includes("x", 1))
