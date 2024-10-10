@@ -44,6 +44,8 @@ const filledArray = Array(12).fill(0)
 
 console.log(filledArray)
 console.log("Length: " + filledArray.length)
+filledArray.length = 6
+console.log(filledArray)
 console.log()
 
 //
