@@ -41,6 +41,10 @@ console.log()
 //
 
 const filledArray = Array(12).fill(0)
-console.log(filledArray)
 
+console.log(filledArray)
 console.log("Length: " + filledArray.length)
+console.log()
+
+//
+
