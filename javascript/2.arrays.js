@@ -3,7 +3,6 @@ const b = Array()
 
 console.log(a)
 console.log(b)
-
 console.log()
 
 //
@@ -15,7 +14,6 @@ const array3 = Array.of(1, 2, 3)
 console.log(array1)
 console.log(array2)
 console.log(array3)
-
 console.log()
 
 //
@@ -30,3 +28,19 @@ console.log()
 
 //
 
+const matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+console.log(matrix[2][0])
+console.log(matrix[1][2])
+console.log()
+
+//
+
+const filledArray = Array(12).fill(0)
+console.log(filledArray)
+
+console.log("Length: " + filledArray.length)
