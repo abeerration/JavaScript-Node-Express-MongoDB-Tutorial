@@ -13,7 +13,6 @@ console.log()
 
 // do while loop
 
-
 i = 0
 
 do {
