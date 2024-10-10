@@ -75,5 +75,10 @@ const merged = first.concat(second)
 console.log(merged)
 console.log()
 
+const spread = [...second, ...first]
+
+console.log(spread)
+console.log()
+
 //
 
