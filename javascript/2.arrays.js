@@ -55,5 +55,25 @@ filledArray.push(7, 9)
 console.log(filledArray)
 console.log()
 
+filledArray.unshift(-1, -2)
+
+console.log(filledArray)
+console.log()
+
+console.log(filledArray.pop())
+console.log(filledArray.shift())
+
+console.log(filledArray)
+console.log()
+
+//
+
+const first = ["ggf", 92]
+const second = ['x', "@krliw4j", 773]
+const merged = first.concat(second)
+
+console.log(merged)
+console.log()
+
 //
 
